@@ -1,0 +1,9 @@
+/node_modules
+/.next/
+
+
+# production
+/build
+
+# misc
+.DS_Store
