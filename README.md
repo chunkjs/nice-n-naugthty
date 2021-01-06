@@ -47,3 +47,7 @@ Next step is to deploy the service with the following command:
 
 `copilot svc deploy --name nice-n-naugthy --env test`
 
+**TODO**
+
+Have to check on the details for deploying on check in, but this will be needed once the app is stabilized
+
